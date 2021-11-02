@@ -13,7 +13,7 @@ Requirements
 
 ## Description
 
-  - The Chicago and LA datasets are Chicago.zip and la.zip. Please unzip them and put in the folders of '/data/chicago' and '/data/la/'before train the model.
+  - The Chicago and LA datasets are Chicago.zip and la.zip. Please unzip them and put in the folders of '/data/chicago' and '/data/la/'before training and testing the model.
   - Run with "python train.py" to train the model and "python test.py" to test the model.
 
 ## Discussion
