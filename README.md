@@ -1,14 +1,14 @@
 # STGNN -DJD (Spatial-Temporal Graph Neural Network considering Dynamic and Joint Dependency)
 
 ## About
-Implementation of the paper A Data-Driven Spatial-Temporal Graph Neural Network for Docked Bike Prediction.
+Implementation of the paper [A Data-Driven Spatial-Temporal Graph Neural Network for Docked Bike Prediction].
 
 Thanks for your attention to this work. More details will be released soon.
 
 ## Installation
 Requirements
 
- - Python 3.6 (Recommend Anaconda)
+ - Python 3.7 (Recommend Anaconda)
  - pytorch 1.8.1
 
 ## Description
